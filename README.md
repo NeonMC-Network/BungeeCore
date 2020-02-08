@@ -1,1 +1,1 @@
-# NeonBungeeCore
+# BungeeCore
