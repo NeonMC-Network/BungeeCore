@@ -1,0 +1,5 @@
+main: me.naptie.bungee.core.Main
+name: NeonBungeeCore
+version: 2.0.0
+api-version: "1.15"
+author: Naptie

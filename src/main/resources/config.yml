@@ -1,0 +1,84 @@
+languages:
+  - en-GB
+  - en-US
+  - zh-CN
+update-language-files: true
+player-count-format: '%ONLINE%/%MAX%'
+help:
+  en-GB:
+    - '&aWelcome to &c&lNEONMC NETWORK&r&a!'
+    - '&6&lCreated & owned by Naptie'
+    - '&e&lQQ Group: 345515864'
+    - '&b&lDiscord: https://discord.gg/sfp87w7'
+    - '&9&lBilibili: https://space.bilibili.com/474403243'
+  en-US:
+    - '&aWelcome to &c&lNEONMC NETWORK&r&a!'
+    - '&6&lCreated & owned by Naptie'
+    - '&e&lQQ Group: 345515864'
+    - '&b&lDiscord: https://discord.gg/sfp87w7'
+    - '&9&lBilibili: https://space.bilibili.com/474403243'
+  zh-CN:
+    - '&a欢迎来到 &c&lNeonMC &r&a服务器！'
+    - '&6&l服主： Naptie'
+    - '&e&lQQ群： 345515864'
+    - '&b&lDiscord： https://discord.gg/sfp87w7'
+    - '&9&l哔哩哔哩： https://space.bilibili.com/474403243'
+messages-of-the-day:
+  en-GB:
+    - '&b&lNeonMC Network &r&c[&61.15&c]'
+    - '&aSky Wars, Bed Wars, The Bridge, and more!'
+  en-US:
+    - '&b&lNeonMC Network &r&c[&61.15&c]'
+    - '&aSky Wars, Bed Wars, The Bridge, and more!'
+  zh-CN:
+    - '&b&lNeonMC 服务器 &r&c[&61.15&c]'
+    - '&a空岛战争、起床战争、独木桥， 以及更多！'
+player-list:
+  en-GB:
+    - '&c&lNeonMC Network'
+    - '&6&lCreated & owned by Naptie'
+    - '&e&lQQ Group: 345515864'
+    - '&b&lDiscord: https://discord.gg/sfp87w7'
+    - '&9&lBilibili: https://space.bilibili.com/474403243'
+  en-US:
+    - '&c&lNeonMC Network'
+    - '&6&lCreated & owned by Naptie'
+    - '&e&lQQ Group: 345515864'
+    - '&b&lDiscord: https://discord.gg/sfp87w7'
+    - '&9&lBilibili: https://space.bilibili.com/474403243'
+  zh-CN:
+    - '&c&lNeonMC 服务器'
+    - '&6&l服主： Naptie'
+    - '&e&lQQ群： 345515864'
+    - '&b&lDiscord： https://discord.gg/sfp87w7'
+    - '&9&l哔哩哔哩： https://space.bilibili.com/474403243'
+maintenance:
+  enable: false
+  status:
+    en-GB: '&cMaintenance'
+    en-US: '&cMaintenance'
+    zh-CN: '&c维护'
+  messages:
+    en-GB:
+      - '&b&lNeonMC Network &r&c[&61.15&c]'
+      - '&c&lUnder maintenance'
+    en-US:
+      - '&b&lNeonMC Network &r&c[&61.15&c]'
+      - '&c&lUnder maintenance'
+    zh-CN:
+      - '&b&lNeonMC Network &r&c[&61.15&c]'
+      - '&c&l正在维护'
+  player-list:
+    en-GB:
+      - '&eNeonMC Network is currently under maintenance.'
+    en-US:
+      - '&eNeonMC Network is currently under maintenance.'
+    zh-CN:
+      - '&eNeonMC 服务器正在维护。'
+  info:
+    en-GB:
+      - '&cNeonMC Network is currently under maintenance.'
+    en-US:
+      - '&cNeonMC Network is currently under maintenance.'
+    zh-CN:
+      - '&cNeonMC 服务器正在维护。'
